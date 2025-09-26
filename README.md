@@ -1,6 +1,6 @@
 # gmail_hide_categories.user.js
 
-By default, Gmail movies all "promotions" (read: marketing spam) into
+By default, Gmail moves all "promotions" (read: marketing spam) into
 your inbox. You can enable categories in settings to have tabs like
 "promotions", "updates", etc, however it still gives you big ugly
 notifications of new promotions. I find this to be total BS because
