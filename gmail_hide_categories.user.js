@@ -5,6 +5,7 @@
 // @description  Overlay a white div over Gmail at a fixed position
 // @match        https://mail.google.com/*
 // @grant        none
+// @license Unlicense; https://unlicense.org/
 // ==/UserScript==
 
 (function() {
